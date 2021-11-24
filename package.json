@@ -1,0 +1,23 @@
+{
+  "name": "server1.js",
+  "version": "1.0.0",
+  "description": "casa do codigo alura",
+  "main": "serve2.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maikonmuniz/exercicios_nodeJs.git"
+  },
+  "author": "maikon muniz da silva",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maikonmuniz/exercicios_nodeJs/issues"
+  },
+  "homepage": "https://github.com/maikonmuniz/exercicios_nodeJs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
